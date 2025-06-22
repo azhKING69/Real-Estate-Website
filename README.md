@@ -21,24 +21,24 @@ In this project it consists of Front-end parts. This website modern estate templ
 <summary><h3> 📸 - Demo Images </h3></summary>
 
 
-<img src='' width="100%"/>
+<img src='https://github.com/azhKING69/Real-Estate-Website/blob/main/screenshot/1.png?raw=true' width="100%"/>
 
 #
 
-<img src='' width="100%"/>
+<img src='https://github.com/azhKING69/Real-Estate-Website/blob/main/screenshot/2.png?raw=true' width="100%"/>
 
 #
 
-<img src='' width="100%"/>
+<img src='https://github.com/azhKING69/Real-Estate-Website/blob/main/screenshot/3.png?raw=true' width="100%"/>
 
 #
 
-<img src='' width="100%"/>
+<img src='https://github.com/azhKING69/Real-Estate-Website/blob/main/screenshot/4.png?raw=true' width="100%"/>
 
 
 #
 
-<img src='' width="100%"/>
+<img src='https://github.com/azhKING69/Real-Estate-Website/blob/main/screenshot/5.png?raw=true' width="100%"/>
 
 
 </details>
